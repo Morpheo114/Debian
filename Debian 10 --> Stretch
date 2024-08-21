@@ -1,0 +1,12 @@
+## Repositorios antiguos. Archivo
+# Oficiales
+deb http://archive.debian.org/debian stretch  main contrib non-free
+deb-src http://archive.debian.org/debian stretch  main contrib non-free
+
+# Actualizaciones de seguridad
+deb http://archive.debian.org/debian-security/ stretch-security main contrib non-free
+deb-src http://archive.debian.org/debian-security/ stretch-security main contrib non-free
+
+# Updates
+deb http://archive.debian.org/debian stretch-updates main contrib non-free
+deb-src http://archive.debian.org/debian stretch-updates main contrib non-free
